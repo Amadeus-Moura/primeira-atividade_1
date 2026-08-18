@@ -1,2 +1,3 @@
 # primeira-atividade_1
-É acho que funciona 
+Petros. 
+Dia = 17/08
