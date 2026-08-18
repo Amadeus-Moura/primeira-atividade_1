@@ -1,6 +1,7 @@
 #calculadora multipliacaçao
 
 a = input("numero_1")
+Resultado = a * b 
 b = nome = input("numero_2")
 
 printf(a/b)
